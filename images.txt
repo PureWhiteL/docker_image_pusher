@@ -1,3 +1,4 @@
 #支持私库
 ucbbar/chipyard-image:latest
+elezar/caffe:gpu
 #支持指定架构
